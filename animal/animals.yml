@@ -1,0 +1,134 @@
+---
+dog:
+  name: dog
+  verbs:
+  - eat_meat
+  - give_birth
+  - run
+  adjectives:
+  - fluffy
+  - obedient
+salmon:
+  name: salmon
+  verbs:
+  - swim
+  - spawn
+  adjectives:
+  - drab
+  - long
+  - pink
+eagle:
+  name: eagle
+  verbs:
+  - fly
+  adjectives:
+  - big
+  - smart
+snake:
+  name: snake
+  verbs:
+  - eat_meat
+  - spit_poison
+  - spit_venom
+  - spits_poison
+  - swallow_whole
+  adjectives:
+  - no_legs
+  - scaly
+pterodactyle:
+  name: pterodactyle
+  verbs:
+  - fly
+  - lay_eggs
+  adjectives:
+  - extinct
+rat:
+  name: rat
+  verbs:
+  - eat_meat
+  - eat_plants
+  - tunnel
+  adjectives:
+  - little
+  - adorable
+  - quick
+elephant:
+  name: elephant
+  verbs:
+  - give_birth
+  adjectives:
+  - big
+flamingo:
+  name: flamingo
+  verbs:
+  - lay_eggs
+  - fly
+  adjectives:
+  - wide-eyed
+  - pink
+chicken:
+  name: chicken
+  verbs:
+  - lay_eggs
+  adjectives:
+  - screeching
+  - feathery
+cow:
+  name: cow
+  verbs:
+  - run
+  - eat_plants
+  - swim
+  - moo
+  adjectives:
+  - big
+alligator:
+  name: alligator
+  verbs:
+  - swim
+  adjectives:
+  - big_teeth
+fox:
+  name: fox
+  verbs:
+  - eat_meat
+  adjectives:
+  - silly
+  - small
+whale:
+  name: whale
+  verbs:
+  - swim
+  adjectives:
+  - big
+bird:
+  name: bird
+  verbs:
+  - swim
+  - fly
+  - tweet
+  adjectives:
+  - blue
+  - small
+lion:
+  name: lion
+  verbs:
+  - roar
+  adjectives:
+  - lively
+  - heavy
+  - fierce
+trex:
+  name: trex
+  verbs:
+  - eat_people
+  adjectives:
+  - extinct
+turtle:
+  name: turtle
+  verbs:
+  - swim
+  - swim
+  adjectives:
+  - broad
+  - shelled
